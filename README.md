@@ -9,7 +9,7 @@ Hypothesis:
 --We expect a decrease in edits after the introduction of protection (locking policies) on pages.
 --We expect a decrease in number of anonymous editors.
 
-### you can find code of data extraction and cleaning inside the
+### you can find code of data extraction and cleaning inside wikicode folder
 
 You can find on below link literatures which based on that we made our assumtions.
 https://drive.google.com/drive/folders/1-e-P_xo451u9pjJh1MYy2Y2HiWUjzuaO?usp=drive_link
